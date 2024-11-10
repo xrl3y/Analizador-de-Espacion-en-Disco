@@ -37,6 +37,11 @@ Example usage:
 Output
 The script will display a sorted report of the subdirectories within the specified directory, showing their sizes in descending order.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+Author: xrl3y
+
 Notes
 Ensure you have read permissions for the directory you want to analyze.
 You can adjust the --max-depth parameter in the script if you want to analyze more levels of subdirectories.
